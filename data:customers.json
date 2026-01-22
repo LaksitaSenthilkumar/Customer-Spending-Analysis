@@ -1,0 +1,242 @@
+[
+    {
+        "customer_id": "CUST_1",
+        "age": 56,
+        "gender": "M",
+        "region": "South",
+        "income": "$68,900.00",
+        "monthly_spend": "$154.82"
+    },
+    {
+        "customer_id": "CUST_2",
+        "age": 69,
+        "gender": "M",
+        "region": "West",
+        "income": "$78,300.00",
+        "monthly_spend": "$160.97"
+    },
+    {
+        "customer_id": "CUST_3",
+        "age": 46,
+        "gender": "M",
+        "region": "West",
+        "income": "$40,000.00",
+        "monthly_spend": "$141.76"
+    },
+    {
+        "customer_id": "CUST_4",
+        "age": 32,
+        "gender": "M",
+        "region": "North",
+        "income": "$30,200.00",
+        "monthly_spend": "$102.35"
+    },
+    {
+        "customer_id": "CUST_5",
+        "age": 60,
+        "gender": "M",
+        "region": "South",
+        "income": "$73,900.00",
+        "monthly_spend": "$207.71"
+    },
+    {
+        "customer_id": "CUST_6",
+        "age": 25,
+        "gender": "F",
+        "region": "West",
+        "income": "$36,100.00",
+        "monthly_spend": "$95.25"
+    },
+    {
+        "customer_id": "CUST_7",
+        "age": 38,
+        "gender": "M",
+        "region": "North",
+        "income": null,
+        "monthly_spend": null
+    },
+    {
+        "customer_id": "CUST_8",
+        "age": 56,
+        "gender": "F",
+        "region": "South",
+        "income": "$58,300.00",
+        "monthly_spend": "$180.21"
+    },
+    {
+        "customer_id": "CUST_9",
+        "age": 36,
+        "gender": "F",
+        "region": "East",
+        "income": "$39,600.00",
+        "monthly_spend": "$120.70"
+    },
+    {
+        "customer_id": "CUST_10",
+        "age": 40,
+        "gender": "F",
+        "region": "North",
+        "income": "$51,200.00",
+        "monthly_spend": "$149.48"
+    },
+    {
+        "customer_id": "CUST_11",
+        "age": 28,
+        "gender": "M",
+        "region": "West",
+        "income": "$45,500.00",
+        "monthly_spend": "$163.53"
+    },
+    {
+        "customer_id": "CUST_12",
+        "age": 28,
+        "gender": "M",
+        "region": "East",
+        "income": "$33,700.00",
+        "monthly_spend": "$107.85"
+    },
+    {
+        "customer_id": "CUST_13",
+        "age": 41,
+        "gender": "M",
+        "region": "East",
+        "income": "$57,700.00",
+        "monthly_spend": "$153.59"
+    },
+    {
+        "customer_id": "CUST_14",
+        "age": 53,
+        "gender": "M",
+        "region": "East",
+        "income": "$66,700.00",
+        "monthly_spend": "$158.25"
+    },
+    {
+        "customer_id": "CUST_15",
+        "age": 57,
+        "gender": "F",
+        "region": "North",
+        "income": "$64,100.00",
+        "monthly_spend": "$214.89"
+    },
+    {
+        "customer_id": "CUST_16",
+        "age": 41,
+        "gender": "M",
+        "region": "West",
+        "income": "$31,600.00",
+        "monthly_spend": "$114.65"
+    },
+    {
+        "customer_id": "CUST_17",
+        "age": 20,
+        "gender": "M",
+        "region": "East",
+        "income": "$14,700.00",
+        "monthly_spend": "$88.62"
+    },
+    {
+        "customer_id": "CUST_18",
+        "age": 39,
+        "gender": "M",
+        "region": "South",
+        "income": "$51,400.00",
+        "monthly_spend": "$146.56"
+    },
+    {
+        "customer_id": "CUST_19",
+        "age": 19,
+        "gender": "M",
+        "region": "East",
+        "income": "$6,900.00",
+        "monthly_spend": "$123.91"
+    },
+    {
+        "customer_id": "CUST_20",
+        "age": 41,
+        "gender": "M",
+        "region": "East",
+        "income": "$47,200.00",
+        "monthly_spend": "$88.24"
+    },
+    {
+        "customer_id": "CUST_21",
+        "age": 61,
+        "gender": "F",
+        "region": "North",
+        "income": "$76,000.00",
+        "monthly_spend": "$285.70"
+    },
+    {
+        "customer_id": "CUST_22",
+        "age": 47,
+        "gender": "M",
+        "region": "North",
+        "income": "$53,500.00",
+        "monthly_spend": "$160.45"
+    },
+    {
+        "customer_id": "CUST_23",
+        "age": 55,
+        "gender": "F",
+        "region": "West",
+        "income": "$54,000.00",
+        "monthly_spend": "$195.40"
+    },
+    {
+        "customer_id": "CUST_24",
+        "age": 19,
+        "gender": "M",
+        "region": "South",
+        "income": "$15,500.00",
+        "monthly_spend": "$72.56"
+    },
+    {
+        "customer_id": "CUST_25",
+        "age": 38,
+        "gender": "F",
+        "region": "North",
+        "income": null,
+        "monthly_spend": null
+    },
+    {
+        "customer_id": "CUST_26",
+        "age": 50,
+        "gender": "M",
+        "region": "East",
+        "income": "$59,700.00",
+        "monthly_spend": "$160.57"
+    },
+    {
+        "customer_id": "CUST_27",
+        "age": 29,
+        "gender": "M",
+        "region": "West",
+        "income": null,
+        "monthly_spend": null
+    },
+    {
+        "customer_id": "CUST_28",
+        "age": 39,
+        "gender": "F",
+        "region": "East",
+        "income": "$54,700.00",
+        "monthly_spend": "$188.40"
+    },
+    {
+        "customer_id": "CUST_29",
+        "age": 61,
+        "gender": "F",
+        "region": "East",
+        "income": "$74,500.00",
+        "monthly_spend": "$269.57"
+    },
+    {
+        "customer_id": "CUST_30",
+        "age": 42,
+        "gender": "F",
+        "region": "North",
+        "income": "$64,900.00",
+        "monthly_spend": "$216.97"
+    }
+]
