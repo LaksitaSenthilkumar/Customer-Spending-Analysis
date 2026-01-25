@@ -46,8 +46,3 @@ The goal is to provide **actionable insights for retail managers** to optimize m
 - Predict **customer spending** for sales planning
 
 ---
-
-## How to Run
-1. Clone the repository:  
-```bash
-git clone https://github.com/<LaksitaSenthilkumar>/customer-spending-analysis.git
